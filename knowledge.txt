@@ -1,0 +1,11 @@
+Compound interest is interest calculated on principal plus accumulated interest.
+
+Repo rate is the rate at which central bank lends money to commercial banks.
+
+Foreclosure means closing a loan completely before tenure ends.
+
+Loan tenure is the duration within which the loan must be repaid.
+
+Interest rate is the percentage charged by lender on loan amount.
+
+Credit score is a number representing creditworthiness of borrower.
